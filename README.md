@@ -6,7 +6,7 @@
 flutter 版本：1.22
 
 ## 实战总结
-[实战总结](https://juejin.im/editor/drafts/6889310451709313031)
+[实战总结](https://juejin.im/post/6891084212997537799)
 
 
 ## image 
